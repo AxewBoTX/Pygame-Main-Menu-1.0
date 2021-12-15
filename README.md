@@ -1,7 +1,9 @@
 # Pygame-Main-Menu-1.0
 
 So;
+
 This is an example of how we can create a simple
+
 Main Menu Screen in pygame.
 
 #Important Links#
